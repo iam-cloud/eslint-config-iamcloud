@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-iamcloud",
+  "name": "@iamcloud/eslint-config-iamcloud",
   "version": "1.0.0",
   "license": "MIT",
   "author": "Charles Oliver <charles.oliver@iamcloud.com>",
