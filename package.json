@@ -1,6 +1,6 @@
 {
   "name": "@iamcloud/eslint-config-iamcloud",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "author": "Charles Oliver <charles.oliver@iamcloud.com>",
   "description": "Eslint configuration used for IAM Cloud TypeScript React apps",
@@ -39,6 +39,7 @@
     "prettier": "2.3.1"
   },
   "peerDependencies": {
+    "eslint-config-prettier": "^8.3.0",
     "eslint-config-react-app": "^5.2.1",
     "eslint-import-resolver-typescript": "^2.0.0",
     "eslint-loader": "^4.0.2",
@@ -50,9 +51,10 @@
     "eslint-plugin-jest": "^23.18.0",
     "eslint-plugin-jest-dom": "^3.6.4",
     "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-prettier": "^3.4.0",
     "eslint-plugin-react": "^7.20.3",
     "eslint-plugin-sonarjs": "^0.5.0",
     "eslint-plugin-testing-library": "^3.10.1",
-    "prettier": "^2.0.5"
+    "prettier": "2.3.1"
   }
 }
