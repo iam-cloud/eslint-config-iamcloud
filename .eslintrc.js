@@ -1,8 +1,6 @@
 module.exports = {
   extends: [
     "react-app",
-    "prettier/@typescript-eslint",
-    "plugin:prettier/recommended",
     "plugin:compat/recommended",
     "plugin:eslint-comments/recommended",
     "plugin:fp/recommended",
@@ -14,15 +12,16 @@ module.exports = {
     "plugin:jsx-a11y/recommended",
     "plugin:sonarjs/recommended",
     "plugin:testing-library/react",
+    "plugin:prettier/recommended",
   ],
   plugins: [
     //
-    "prettier",
     "filenames",
     "fp",
-    "jest",
     "jest-dom",
+    "jest",
     "jsx-a11y",
+    "prettier",
     "sonarjs",
     "testing-library",
   ],
