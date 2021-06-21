@@ -1,6 +1,6 @@
 {
   "name": "@iamcloud/eslint-config-iamcloud",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "author": "Charles Oliver <charles.oliver@iamcloud.com>",
   "description": "Eslint configuration used for IAM Cloud TypeScript React apps",
