@@ -30,7 +30,7 @@ change the eslint parser to `@typescript-eslint/parser` and add the typescript p
 // eslintrc.js
 module.exports = {
   parser: '@typescript-eslint/parser',
-  extends: ['@10up/eslint-config/react'],
+  extends: ['@iamcloud/eslint-config/react'],
   plugins: ['@typescript-eslint'],
 } 
 ```
